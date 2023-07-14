@@ -25,7 +25,3 @@ Run `python minesweeper.py` to start the game.
 ## Customization
 
 You can adjust the difficulty of the game by changing the `grid_width`, `grid_height`, and `num_mines` variables in the `minesweeper.py` file.
-
-## License
-
-This project is licensed under the MIT License.
